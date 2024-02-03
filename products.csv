@@ -1,0 +1,15 @@
+id,products,price,quantity,title,image,barcode
+1,Product A,12,1,Body Wash,https://img.icons8.com/?size=512&id=43649&format=png,1234567890123
+2,Product B,8,1,Conditioner,https://img.icons8.com/?size=512&id=43649&format=png,2345678901234
+3,Product C,15,1,Shower Gel,https://img.icons8.com/?size=512&id=43649&format=png,3456789012345
+4,Product D,9,1,Hand Soap,https://img.icons8.com/?size=512&id=43649&format=png,4567890123456
+5,Product E,11,1,Body Lotion,https://img.icons8.com/?size=512&id=43649&format=png,5678901234567
+6,Product F,7,1,Shampoo,https://img.icons8.com/?size=512&id=43649&format=png,6789012345678
+7,Product G,14,1,Face Wash,https://img.icons8.com/?size=512&id=43649&format=png,7890123456789
+8,Product H,10,1,Hand Sanitizer,https://img.icons8.com/?size=512&id=43649&format=png,8901234567890
+9,Product I,13,1,Conditioner,https://img.icons8.com/?size=512&id=43649&format=png,9012345678901
+10,Product J,8,1,Bar Soap,https://img.icons8.com/?size=512&id=43649&format=png,0123456789012
+11,Product K,16,1,Bath Bomb,https://img.icons8.com/?size=512&id=43649&format=png,1234501234567
+12,Product L,9,1,Hand Cream,https://img.icons8.com/?size=512&id=43649&format=png,2345612345678
+13,Product M,12,1,Body Wash,https://img.icons8.com/?size=512&id=43649&format=png,3456723456789
+14,Product N,7,1,Shampoo Warm,https://img.icons8.com/?size=512&id=43649&format=png,4567834567890
